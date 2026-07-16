@@ -1,0 +1,18 @@
+SUCESSO: Tudo certo (LogFileMixin)
+
+ERRO: oi (LogFileMixin)
+
+ERRO: Algo deu errado (LogFileMixin)
+
+SUCESSO: Tudo certo (LogFileMixin)
+
+ERRO: oi (LogFileMixin)
+
+ERRO: Algo deu errado (LogFileMixin)
+
+SUCESSO: Tudo certo (LogFileMixin)
+
+SUCESSO: Galaxy S ligado com sucesso. (Smartphone)
+
+ERRO: iPhone desligado com sucesso. (Smartphone)
+
